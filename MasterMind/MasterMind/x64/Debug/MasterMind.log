@@ -1,0 +1,3 @@
+﻿  MasterMind.cpp
+C:\Users\ALP54\source\repos\MasterMind\MasterMind\MasterMind.cpp(148,49): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  MasterMind.vcxproj -> C:\Users\ALP54\source\repos\MasterMind\x64\Debug\MasterMind.exe
